@@ -370,6 +370,12 @@ search box - the end user will not know they are happening.
 	                    "field": "transmissiondate",
 	                }
                 ],
+                [
+	                {
+	                    "pre": "<b>Company Number:</b> ",
+	                    "field": "companynumb",
+	                }
+                ],
 				
                 [
                     {
