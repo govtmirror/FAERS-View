@@ -380,7 +380,7 @@ search box - the end user will not know they are happening.
 	                {
 	                    "pre": "<b>Medicinal Product:</b><br>",
 	                    "field": "medicinalproduct",
-	                }
+	                },
 	                {
 	                    "pre": "<i>Dosage:</i>",
 	                    "field": "drugdosagetext",
