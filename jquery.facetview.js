@@ -376,7 +376,16 @@ search box - the end user will not know they are happening.
 	                    "field": "companynumb",
 	                }
                 ],
-				
+                [
+	                {
+	                    "pre": "<b>Medicinal Product:</b><br>",
+	                    "field": "medicinalproduct",
+	                }
+	                {
+	                    "pre": "<i>Dosage:</i>",
+	                    "field": "drugdosagetext",
+	                }
+                ],
                 [
                     {
                         "field": "howpublished"
